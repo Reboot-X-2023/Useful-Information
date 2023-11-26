@@ -11,6 +11,7 @@ Constellation
 Here is the link to access the documentation:
 https://rebootxconstellation.z33.web.core.windows.net/setup/developers
 
+And to download the package:
 https://rebootxconstellation.z33.web.core.windows.net/downloads/constellation-core-0.11.6-reboot.0.tgz
 
 
