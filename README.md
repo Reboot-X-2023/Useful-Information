@@ -38,6 +38,12 @@ or
     
     npm install --save styled-components
 
+<ins>Challenges Wording</ins>
+
+It's estimated that on any given night in the UK, around 2,500 people will sleep on the streets. Many homeless charities have networks of people who are willing to provide a bed for the night for those in crisis. Managing that availability, however, is time consuming and constantly changing. We'd like to invetsigate how we can use technology to simplify the process. Whatever we develop must be secure, easy to use and as automated as possible.
+
+A growing number of people within the UK are digitally disadvantaged and under-confident when it comes to using online services. Come up with a way of creating a more inclusive and accessible digital banking experience to support people with different abilities and needs.
+
     
 
 
