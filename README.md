@@ -15,7 +15,7 @@ Please **do not use Constellation if you are assigned the Homeless Host challeng
 You can use create React app to start a new project, the documentation can be found here:
 https://create-react-app.dev/docs/getting-started
 
-Here is the link to access the documentation:
+Here is the link to access the documentation. Please note the setup is different than the documentation because we are outside of the LBG environment, the instructions can be found below to set it up locally.
 https://rebootxconstellation.z33.web.core.windows.net/setup/developers
 
 And to download the package:
@@ -28,6 +28,8 @@ You'll then need to update your package.json to reference the tar file. The path
 You can then run either of the below commands depending on your package manager:
 
     yarn add styled components
+    
+or
     
     npm install --save styled-components
 
