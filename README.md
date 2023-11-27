@@ -44,6 +44,32 @@ It's estimated that on any given night in the UK, around 2,500 people will sleep
 
 A growing number of people within the UK are digitally disadvantaged and under-confident when it comes to using online services. Come up with a way of creating a more inclusive and accessible digital banking experience to support people with different abilities and needs.
 
+<ins>Judging Criteria</ins>
+
+💡 The Idea 
+Useful - Does the idea meet it's chosen challenge statement? How well does it serve our customers? Does it provide customer value?
+Desirable - How novel is the idea? Does it replicate an existing solution?
+Feasible - Is the idea achievable, realistic and possible to deploy as a product or service?
+Viable - Could the solution provide genuine customer or business value?
+
+➕ Potential Development
+Roadmap - Do they have a view of what they would build if given more time and have a defined Minimum Viable Product
+Complexity - Is there consideration of maintenance & serviceability and how easy would it be to take this into a production environment?
+Ongoing Development - What further development possibilities have been identified?
+Limitations - Have the team identified any problem areas of the application that would need to be resolved?
+
+💻 Architecture & Use of Technology
+Platform - Does the idea show good creative use of the available platform & technology? For example using Azure or Power Platform
+Data - Have appropriate data sources been used?
+Engineering - How complete is the solutions architecture and components e.g. front-end/back-end, APIs etc?
+Security - Has any consideration been given to security? How data would be protected and mis-use of the solution?
+
+🎨 Design & Inclusion
+Available - Is the product or service considerate of a wide range of people - does it exclude use by anyone with different disabilities?
+Useable - Is the product or service easy to interact with, so that users of all abilities have equitable experiences?
+Personal - Is the product or services designed with individuals and their unique personal circumstances in mind, responding to and anticipating their needs?
+Accessibility - Did the prototype make use of inclusive research, design and coding tools?
+
     
 
 
