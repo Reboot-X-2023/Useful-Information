@@ -2,13 +2,18 @@
 
 Here you'll find some useful links and data sources for the day!
 
+<ins>Data Sources and Links</ins>
+
 There are a couple of data sources in the root of this directory:
 
 CDI Hack Data.xlsx - This is a data dictionary that reflects data used to calculate the Consumer Digital Index. You can use it to create mock data - but please be clear this will only be dummy data and not reflect any real data.
 
+And the link to the Consumer Digital Index we just published:
+https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html
+
 Data set for homeless project.xlsx - This is sample data that relfects what a homeless charity might hold. You can create more mock data from it if you need to.
 
-Constellation
+<ins>Constellation</ins>
 
 Please **do not use Constellation if you are assigned the Homeless Host challenge**, you will need to use an Open Source library - for example, MUI or Boostrap.
 
