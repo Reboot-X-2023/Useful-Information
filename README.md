@@ -19,8 +19,10 @@ You'll then need to update your package.json to reference the tar file. The path
     "@constellation/core": "file:./path/to/tarfile.tgz",
 
 You can then run either of the below commands depending on your package manager:
-"yarn add styled components"
-npm install --save styled-components
+
+    "yarn add styled components"
+    
+    npm install --save styled-components
 
 
 
