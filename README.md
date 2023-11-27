@@ -10,7 +10,7 @@ Data set for homeless project.xlsx - This is sample data that relfects what a ho
 
 Constellation
 
-Please **do not use Constellation if you are assigned the Homeless Host challenge **, you will need to use an Open Source library - for example, MUI or Boostrap.
+Please **do not use Constellation if you are assigned the Homeless Host challenge**, you will need to use an Open Source library - for example, MUI or Boostrap.
 
 You can use create React app to start a new project, the documentation can be found here:
 https://create-react-app.dev/docs/getting-started
